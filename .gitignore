@@ -1,0 +1,17 @@
+# Data (do not commit patient data)
+*.csv
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
