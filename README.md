@@ -13,6 +13,15 @@ End-to-end machine learning projects across healthcare, predictive modeling, and
 - **Highlights:** EDA on 8,000 patient records, one-hot feature engineering, grid search over 180 hyperparameter combinations, clinical FN/FP cost analysis
 - **Role:** ML Engineer — EDA, Feature Engineering, Decision Tree Classifier, Hyperparameter Tuning
 
+### [Responsible AI Health Classifier](./responsible-ai-health-classifier/)
+> **Fairness audit revealing 6.7pp FNR gap** between genders — logistic regression from scratch + threshold calibration to enforce equal sensitivity
+
+- **Stack:** Python · NumPy · scikit-learn · matplotlib · pandas
+- **Highlights:** Full GD + SGD from scratch, gender-stratified confusion matrices, ROC/AUC per subgroup, separate threshold calibration at 80% equal sensitivity
+- **Role:** ML Engineer — Logistic Regression, SGD, Bias Analysis, Threshold Calibration
+
+---
+
 ### [AI Music Generation Engine](./ai-music-generation/)
 > **2-layer MLP from scratch in NumPy** — trained on Chopin MIDI data to generate original piano compositions
 
