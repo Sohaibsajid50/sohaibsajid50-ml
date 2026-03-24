@@ -13,6 +13,13 @@ End-to-end machine learning projects across healthcare, predictive modeling, and
 - **Highlights:** EDA on 8,000 patient records, one-hot feature engineering, grid search over 180 hyperparameter combinations, clinical FN/FP cost analysis
 - **Role:** ML Engineer — EDA, Feature Engineering, Decision Tree Classifier, Hyperparameter Tuning
 
+### [Customer Review Sentiment Classifier](./customer-review-sentiment/)
+> **78.7% validation accuracy** — NLP pipeline built from scratch for an e-commerce platform
+
+- **Stack:** Python · NumPy · scikit-learn · matplotlib
+- **Highlights:** Bag-of-words representation on 16,000 reviews, Naive Bayes with MAP smoothing, log-sum trick for numerical stability, word-level feature importance analysis
+- **Role:** NLP Engineer — Bag-of-Words Pipeline, Bayesian Classifier, Feature Importance Analysis
+
 ---
 
 ## Stack
