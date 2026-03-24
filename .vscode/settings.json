@@ -1,5 +1,5 @@
 {
   "python.defaultInterpreterPath": "/Users/sohaibsajid/Downloads/sohaibsajid50-ml/.venv/bin/python",
   "python.terminal.activateEnvironment": true,
-  "jupyter.notebookFileRoot": "${workspaceFolder}"
+  "jupyter.notebookFileRoot": "${fileDirname}"
 }

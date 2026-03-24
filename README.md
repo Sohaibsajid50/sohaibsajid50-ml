@@ -13,6 +13,15 @@ End-to-end machine learning projects across healthcare, predictive modeling, and
 - **Highlights:** EDA on 8,000 patient records, one-hot feature engineering, grid search over 180 hyperparameter combinations, clinical FN/FP cost analysis
 - **Role:** ML Engineer — EDA, Feature Engineering, Decision Tree Classifier, Hyperparameter Tuning
 
+### [AI Music Generation Engine](./ai-music-generation/)
+> **2-layer MLP from scratch in NumPy** — trained on Chopin MIDI data to generate original piano compositions
+
+- **Stack:** Python · NumPy · mido · matplotlib
+- **Highlights:** Full forward pass + vectorized backpropagation with no ML frameworks, one-hot note encoding, autoregressive generation, architecture tradeoff analysis (MLP → RNN → Transformer)
+- **Role:** ML Engineer — MLP Architecture, Backpropagation from Scratch, Generative AI
+
+---
+
 ### [Customer Review Sentiment Classifier](./customer-review-sentiment/)
 > **78.7% validation accuracy** — NLP pipeline built from scratch for an e-commerce platform
 
